@@ -11,12 +11,14 @@ This project includes the two core assessment capabilities: **RAG** and a **REST
 
 ## Documentation
 
+The links below include the detailed architecture diagram and system design, the verified demo queries and tested capabilities, guest execution screenshots, and observability evidence.
 - [Architecture and System Design](ARCHITECTURE.md)
 - [Demo Script and Tested Queries](DEMO_SCRIPT.md)
 - [Guest Execution Screenshots](demo_evidence/guest_screenshots/)
 - [Observability Evidence](demo_evidence/observability/)
 
 ---
+
 ## Table of Contents
 
 - [1. Main Capabilities](#1-main-capabilities)
