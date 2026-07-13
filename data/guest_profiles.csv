@@ -1,0 +1,201 @@
+Guest_ID,First_Name,Last_Name,Cabin_Number,Cabin_Category,Deck,Loyalty_Tier,Loyalty_Points,Party_Size,Embark_Date,Debark_Date,Dietary_Restrictions,Special_Occasions,Beverage_Package,Past_Cruises
+G100001,William,Davis,4228,Interior,4,Blue,1679,1,2026-02-05,2026-02-11,None,None,None,0
+G100002,Linda,Smith,5574,Ocean View,5,Blue,8928,4,2026-02-05,2026-02-11,Vegetarian,None,Premium,8
+G100003,Susan,Wilson,5284,Ocean View,5,Blue,3527,3,2026-02-05,2026-02-11,None,None,Classic,3
+G100004,William,Johnson,7494,Balcony,6,Gold,42571,1,2026-02-05,2026-02-11,None,None,Premium,9
+G100005,Michael,Williams,6093,Balcony,7,Diamond,129871,3,2026-02-05,2026-02-11,None,Birthday,None,12
+G100006,Barbara,Garcia,8689,Suite,8,Gold,31865,3,2026-02-05,2026-02-11,None,None,Premium,5
+G100007,Jennifer,Moore,5388,Ocean View,5,Diamond,183886,2,2026-02-05,2026-02-11,Gluten-Free,None,None,1
+G100008,William,Williams,8608,Suite,8,Gold,43585,3,2026-02-05,2026-02-11,Vegetarian,None,Classic,20
+G100009,William,Jones,5252,Ocean View,5,Platinum,86789,3,2026-02-05,2026-02-11,None,None,Premium,12
+G100010,Robert,Jackson,5093,Ocean View,5,Gold,26543,1,2026-02-05,2026-02-11,Vegetarian,Birthday,Premium,13
+G100011,Richard,Taylor,4610,Interior,4,Diamond,169352,3,2026-02-05,2026-02-11,None,None,Premium,3
+G100012,David,Brown,6601,Balcony,6,Diamond,120730,4,2026-02-05,2026-02-11,None,Anniversary,Premium,5
+G100013,Elizabeth,Miller,4156,Interior,4,Diamond,199943,2,2026-02-05,2026-02-11,None,None,None,19
+G100014,James,Brown,8975,Suite,8,Gold,35076,2,2026-02-05,2026-02-11,None,Birthday,Premium,2
+G100015,John,Jones,8565,Suite,8,Blue,7787,2,2026-02-05,2026-02-11,Gluten-Free,None,Premium,13
+G100016,Elizabeth,Taylor,5687,Ocean View,5,Silver,16118,4,2026-02-05,2026-02-11,None,None,None,7
+G100017,David,Smith,4602,Interior,4,Silver,13770,2,2026-02-05,2026-02-11,None,None,Premium,20
+G100018,John,Johnson,5880,Ocean View,5,Blue,1160,2,2026-02-05,2026-02-11,Gluten-Free,None,None,17
+G100019,Linda,Jackson,8913,Suite,8,Silver,13119,1,2026-02-05,2026-02-11,None,None,Classic,13
+G100020,Mary,Brown,8531,Suite,8,Platinum,97724,3,2026-02-05,2026-02-11,None,Birthday,None,6
+G100021,Robert,Thomas,8593,Suite,8,Diamond,160637,2,2026-02-05,2026-02-11,None,None,Premium,3
+G100022,John,Davis,4170,Interior,4,Blue,7956,4,2026-02-05,2026-02-11,Vegetarian,None,None,5
+G100023,Richard,Rodriguez,4948,Interior,4,Platinum,79819,3,2026-02-05,2026-02-11,None,None,Premium,15
+G100024,Elizabeth,Miller,5991,Ocean View,5,Silver,19489,1,2026-02-05,2026-02-11,Gluten-Free,None,None,18
+G100025,Mary,Williams,5871,Ocean View,5,Platinum,54490,1,2026-02-05,2026-02-11,Vegetarian,None,None,18
+G100026,John,Thomas,4673,Interior,4,Silver,19260,3,2026-02-05,2026-02-11,Gluten-Free,Birthday,Premium,10
+G100027,Richard,Jones,7375,Balcony,7,Silver,14915,4,2026-02-05,2026-02-11,Gluten-Free,None,None,14
+G100028,John,Miller,4518,Interior,4,Diamond,117361,3,2026-02-05,2026-02-11,None,Birthday,Classic,9
+G100029,Elizabeth,Smith,8841,Suite,8,Silver,19086,3,2026-02-05,2026-02-11,None,Birthday,Classic,3
+G100030,William,Martinez,5619,Ocean View,5,Blue,5617,2,2026-02-05,2026-02-11,Gluten-Free,None,Classic,8
+G100031,Susan,Rodriguez,4045,Interior,4,Blue,5464,2,2026-02-05,2026-02-11,Gluten-Free,Birthday,Premium,14
+G100032,James,Brown,8538,Suite,8,Diamond,190573,2,2026-02-05,2026-02-11,None,None,Classic,18
+G100033,Susan,Jones,5042,Ocean View,5,Diamond,147795,1,2026-02-05,2026-02-11,Gluten-Free,Birthday,Premium,7
+G100034,Susan,Jones,7895,Balcony,7,Blue,3878,2,2026-02-05,2026-02-11,Vegetarian,None,None,5
+G100035,Linda,Rodriguez,8581,Suite,8,Gold,47979,1,2026-02-05,2026-02-11,None,None,Classic,7
+G100036,Barbara,Martinez,8920,Suite,8,Silver,24275,2,2026-02-05,2026-02-11,Vegetarian,None,Premium,6
+G100037,William,Williams,7980,Balcony,7,Platinum,68292,3,2026-02-05,2026-02-11,None,None,Premium,17
+G100038,Patricia,Rodriguez,4182,Interior,4,Gold,33698,1,2026-02-05,2026-02-11,None,None,Classic,11
+G100039,Patricia,Taylor,8960,Suite,8,Gold,31228,3,2026-02-05,2026-02-11,None,None,None,16
+G100040,Barbara,Thomas,5071,Ocean View,5,Diamond,187062,3,2026-02-05,2026-02-11,None,Anniversary,Premium,3
+G100041,Susan,Wilson,6824,Balcony,7,Gold,34688,2,2026-02-05,2026-02-11,Vegetarian,None,Premium,12
+G100042,Richard,Smith,6622,Balcony,6,Silver,13443,4,2026-02-05,2026-02-11,None,None,Premium,10
+G100043,Joseph,Miller,8761,Suite,8,Platinum,98231,2,2026-02-05,2026-02-11,None,Anniversary,Premium,20
+G100044,John,Davis,7377,Balcony,6,Diamond,129444,2,2026-02-05,2026-02-11,Vegetarian,None,None,7
+G100045,Joseph,Thomas,4907,Interior,4,Platinum,87727,2,2026-02-05,2026-02-11,None,None,Classic,7
+G100046,Patricia,Thomas,4224,Interior,4,Silver,23174,4,2026-02-05,2026-02-11,None,None,None,3
+G100047,Joseph,Wilson,5972,Ocean View,5,Platinum,79004,4,2026-02-05,2026-02-11,None,None,None,15
+G100048,Linda,Rodriguez,7568,Balcony,7,Platinum,84163,4,2026-02-05,2026-02-11,Vegetarian,Anniversary,Classic,2
+G100049,William,Wilson,5327,Ocean View,5,Gold,42699,1,2026-02-05,2026-02-11,Vegetarian,Birthday,None,12
+G100050,John,Thomas,5417,Ocean View,5,Silver,18890,4,2026-02-05,2026-02-11,None,None,None,13
+G100051,Richard,Jackson,4006,Interior,4,Platinum,73052,3,2026-02-05,2026-02-11,None,None,Premium,17
+G100052,Jessica,Davis,5279,Ocean View,5,Diamond,163654,1,2026-02-05,2026-02-11,None,Anniversary,Premium,12
+G100053,Robert,Smith,8964,Suite,8,Silver,19697,1,2026-02-05,2026-02-11,None,None,None,14
+G100054,William,Taylor,4335,Interior,4,Silver,17449,3,2026-02-05,2026-02-11,Gluten-Free,None,Classic,13
+G100055,Jessica,Smith,4767,Interior,4,Gold,26706,3,2026-02-05,2026-02-11,Vegetarian,None,Premium,1
+G100056,Michael,Smith,5636,Ocean View,5,Blue,3908,2,2026-02-05,2026-02-11,None,None,Premium,6
+G100057,Barbara,Garcia,7240,Balcony,7,Platinum,99016,1,2026-02-05,2026-02-11,Vegetarian,Anniversary,None,18
+G100058,Richard,Taylor,7928,Balcony,7,Blue,3249,1,2026-02-05,2026-02-11,None,Birthday,None,9
+G100059,Mary,Anderson,4545,Interior,4,Diamond,186706,3,2026-02-05,2026-02-11,None,None,Premium,10
+G100060,Jessica,Brown,8721,Suite,8,Blue,5934,4,2026-02-05,2026-02-11,Vegetarian,None,None,16
+G100061,Joseph,Thomas,8922,Suite,8,Gold,44414,3,2026-02-05,2026-02-11,Gluten-Free,Birthday,None,8
+G100062,Joseph,Taylor,5344,Ocean View,5,Platinum,82394,3,2026-02-05,2026-02-11,Vegetarian,None,None,11
+G100063,William,Rodriguez,7138,Balcony,6,Gold,41928,2,2026-02-05,2026-02-11,None,Birthday,Premium,13
+G100064,Jessica,Jackson,5458,Ocean View,5,Platinum,51130,1,2026-02-05,2026-02-11,Gluten-Free,Birthday,Classic,7
+G100065,Jessica,Anderson,6871,Balcony,7,Gold,43035,3,2026-02-05,2026-02-11,Gluten-Free,None,Classic,9
+G100066,Patricia,Miller,5323,Ocean View,5,Gold,49342,2,2026-02-05,2026-02-11,Vegetarian,Birthday,Premium,15
+G100067,Patricia,Miller,6606,Balcony,6,Gold,36825,2,2026-02-05,2026-02-11,Gluten-Free,None,Premium,17
+G100068,Mary,Johnson,7133,Balcony,6,Silver,21426,2,2026-02-05,2026-02-11,None,None,None,18
+G100069,Jessica,Moore,8674,Suite,8,Gold,26683,3,2026-02-05,2026-02-11,None,None,None,12
+G100070,Mary,Jones,4152,Interior,4,Platinum,86886,3,2026-02-05,2026-02-11,None,Birthday,None,17
+G100071,Richard,Moore,5930,Ocean View,5,Platinum,69487,4,2026-02-05,2026-02-11,Gluten-Free,None,Premium,1
+G100072,Michael,Miller,4270,Interior,4,Diamond,110641,2,2026-02-05,2026-02-11,Vegetarian,Birthday,Premium,2
+G100073,Susan,Moore,4705,Interior,4,Silver,17699,3,2026-02-05,2026-02-11,None,Birthday,Classic,9
+G100074,Linda,Rodriguez,4806,Interior,4,Platinum,90963,2,2026-02-05,2026-02-11,None,None,Premium,7
+G100075,Robert,Williams,6122,Balcony,6,Silver,22986,3,2026-02-05,2026-02-11,None,None,Classic,14
+G100076,Elizabeth,Taylor,8982,Suite,8,Blue,8199,4,2026-02-05,2026-02-11,None,None,Premium,1
+G100077,William,Smith,6187,Balcony,6,Platinum,94190,1,2026-02-05,2026-02-11,Gluten-Free,None,None,5
+G100078,William,Garcia,8799,Suite,8,Platinum,91601,4,2026-02-05,2026-02-11,None,None,Classic,13
+G100079,Patricia,Garcia,6675,Balcony,6,Gold,47730,4,2026-02-05,2026-02-11,Gluten-Free,None,Premium,1
+G100080,David,Rodriguez,4331,Interior,4,Platinum,76488,1,2026-02-05,2026-02-11,None,None,Classic,1
+G100081,Jessica,Moore,7556,Balcony,6,Silver,13335,3,2026-02-05,2026-02-11,None,Birthday,Classic,14
+G100082,James,Davis,4726,Interior,4,Platinum,70365,1,2026-02-05,2026-02-11,None,None,None,7
+G100083,Patricia,Jones,8755,Suite,8,Blue,4781,3,2026-02-05,2026-02-11,None,None,Classic,7
+G100084,Richard,Miller,5943,Ocean View,5,Platinum,83308,2,2026-02-05,2026-02-11,None,Anniversary,Classic,10
+G100085,James,Martinez,7486,Balcony,6,Diamond,176931,4,2026-02-05,2026-02-11,Vegetarian,None,Premium,15
+G100086,Richard,Moore,7910,Balcony,6,Gold,31181,2,2026-02-05,2026-02-11,None,None,None,13
+G100087,Jessica,Taylor,6790,Balcony,7,Blue,2492,4,2026-02-05,2026-02-11,None,Birthday,Premium,18
+G100088,Joseph,Brown,4538,Interior,4,Gold,39972,1,2026-02-05,2026-02-11,Vegetarian,None,Premium,4
+G100089,William,Wilson,8819,Suite,8,Blue,6512,1,2026-02-05,2026-02-11,Gluten-Free,None,Classic,10
+G100090,John,Davis,4646,Interior,4,Platinum,68833,2,2026-02-05,2026-02-11,None,None,None,20
+G100091,Jennifer,Martinez,8962,Suite,8,Blue,753,3,2026-02-05,2026-02-11,None,Anniversary,Classic,11
+G100092,Linda,Thomas,5579,Ocean View,5,Platinum,61800,2,2026-02-05,2026-02-11,Vegetarian,None,Premium,12
+G100093,Jessica,Jones,5237,Ocean View,5,Diamond,183611,3,2026-02-05,2026-02-11,None,Anniversary,Premium,0
+G100094,Jennifer,Williams,6904,Balcony,7,Platinum,72646,3,2026-02-05,2026-02-11,None,Anniversary,Classic,9
+G100095,Jessica,Brown,8621,Suite,8,Silver,19370,3,2026-02-05,2026-02-11,None,Anniversary,Premium,9
+G100096,William,Smith,8789,Suite,8,Blue,803,4,2026-02-05,2026-02-11,Gluten-Free,Birthday,Premium,11
+G100097,William,Jones,5643,Ocean View,5,Silver,24801,1,2026-02-05,2026-02-11,Gluten-Free,None,None,18
+G100098,John,Martinez,5334,Ocean View,5,Gold,38615,2,2026-02-05,2026-02-11,Vegetarian,Birthday,Premium,11
+G100099,Jennifer,Rodriguez,7871,Balcony,7,Diamond,163156,3,2026-02-05,2026-02-11,Gluten-Free,None,Classic,2
+G100100,Richard,Anderson,5092,Ocean View,5,Silver,16464,1,2026-02-05,2026-02-11,Gluten-Free,None,None,14
+G100101,Richard,Anderson,6221,Balcony,7,Gold,32661,4,2026-02-05,2026-02-11,None,None,Premium,10
+G100102,John,Moore,5931,Ocean View,5,Diamond,139608,4,2026-02-05,2026-02-11,None,Birthday,None,1
+G100103,Patricia,Brown,8620,Suite,8,Gold,42614,2,2026-02-05,2026-02-11,None,None,Classic,17
+G100104,Susan,Brown,5853,Ocean View,5,Platinum,90347,4,2026-02-05,2026-02-11,Gluten-Free,None,Premium,11
+G100105,Joseph,Davis,8937,Suite,8,Silver,11627,3,2026-02-05,2026-02-11,None,Anniversary,None,12
+G100106,Patricia,Moore,5093,Ocean View,5,Gold,31950,1,2026-02-05,2026-02-11,None,Anniversary,None,4
+G100107,John,Miller,5600,Ocean View,5,Diamond,130539,3,2026-02-05,2026-02-11,Vegetarian,None,None,8
+G100108,William,Garcia,5112,Ocean View,5,Silver,24195,1,2026-02-05,2026-02-11,Vegetarian,None,Classic,7
+G100109,James,Garcia,6543,Balcony,6,Diamond,116614,4,2026-02-05,2026-02-11,None,None,Premium,2
+G100110,Barbara,Brown,8731,Suite,8,Platinum,64519,1,2026-02-05,2026-02-11,None,Anniversary,Classic,20
+G100111,Jessica,Taylor,4436,Interior,4,Blue,1768,4,2026-02-05,2026-02-11,None,None,None,10
+G100112,John,Jones,5281,Ocean View,5,Diamond,182978,3,2026-02-05,2026-02-11,None,None,Premium,9
+G100113,Patricia,Brown,8936,Suite,8,Platinum,92658,2,2026-02-05,2026-02-11,None,None,None,13
+G100114,Richard,Thomas,8873,Suite,8,Gold,35241,4,2026-02-05,2026-02-11,Gluten-Free,Anniversary,Classic,4
+G100115,John,Williams,4095,Interior,4,Platinum,56328,3,2026-02-05,2026-02-11,Vegetarian,None,None,18
+G100116,Patricia,Thomas,6724,Balcony,7,Diamond,187207,4,2026-02-05,2026-02-11,None,Anniversary,Premium,9
+G100117,Michael,Jones,4672,Interior,4,Gold,32348,1,2026-02-05,2026-02-11,Gluten-Free,None,Classic,3
+G100118,Susan,Smith,5623,Ocean View,5,Gold,46555,3,2026-02-05,2026-02-11,None,Birthday,Classic,9
+G100119,James,Garcia,7781,Balcony,6,Gold,43557,4,2026-02-05,2026-02-11,None,Birthday,Premium,20
+G100120,Michael,Taylor,4429,Interior,4,Blue,5585,2,2026-02-05,2026-02-11,Gluten-Free,Anniversary,Premium,10
+G100121,Mary,Jones,4161,Interior,4,Diamond,180981,1,2026-02-05,2026-02-11,None,Anniversary,Classic,13
+G100122,Susan,Rodriguez,8610,Suite,8,Platinum,83577,1,2026-02-05,2026-02-11,Gluten-Free,None,None,9
+G100123,Elizabeth,Johnson,8612,Suite,8,Diamond,178554,1,2026-02-05,2026-02-11,None,Birthday,Classic,6
+G100124,Elizabeth,Wilson,6245,Balcony,6,Silver,18149,4,2026-02-05,2026-02-11,Vegetarian,Birthday,Classic,17
+G100125,John,Taylor,7764,Balcony,7,Silver,10693,4,2026-02-05,2026-02-11,None,None,None,10
+G100126,Richard,Thomas,8648,Suite,8,Diamond,153088,1,2026-02-05,2026-02-11,Gluten-Free,Birthday,Premium,14
+G100127,Susan,Brown,4249,Interior,4,Gold,44296,4,2026-02-05,2026-02-11,None,None,Classic,9
+G100128,David,Garcia,5078,Ocean View,5,Gold,45749,1,2026-02-05,2026-02-11,None,None,None,11
+G100129,Linda,Brown,5149,Ocean View,5,Gold,31464,2,2026-02-05,2026-02-11,None,Birthday,Premium,2
+G100130,Joseph,Moore,8848,Suite,8,Silver,24451,3,2026-02-05,2026-02-11,Gluten-Free,Birthday,Classic,2
+G100131,Elizabeth,Rodriguez,8802,Suite,8,Platinum,73064,1,2026-02-05,2026-02-11,Gluten-Free,None,Classic,1
+G100132,Elizabeth,Williams,7320,Balcony,7,Blue,1479,4,2026-02-05,2026-02-11,None,None,Premium,1
+G100133,David,Jackson,5513,Ocean View,5,Platinum,54054,4,2026-02-05,2026-02-11,None,Anniversary,Premium,2
+G100134,Mary,Davis,5724,Ocean View,5,Diamond,157595,2,2026-02-05,2026-02-11,Gluten-Free,Anniversary,Classic,12
+G100135,Mary,Wilson,6134,Balcony,6,Platinum,56193,4,2026-02-05,2026-02-11,Gluten-Free,Anniversary,Premium,19
+G100136,John,Jones,7877,Balcony,6,Silver,15082,4,2026-02-05,2026-02-11,Vegetarian,None,Premium,2
+G100137,David,Jones,8843,Suite,8,Gold,49208,1,2026-02-05,2026-02-11,None,None,Classic,0
+G100138,Jennifer,Miller,6699,Balcony,7,Gold,40934,2,2026-02-05,2026-02-11,Vegetarian,Birthday,None,2
+G100139,Mary,Wilson,4897,Interior,4,Gold,45251,2,2026-02-05,2026-02-11,None,None,None,5
+G100140,Joseph,Johnson,5420,Ocean View,5,Silver,21081,2,2026-02-05,2026-02-11,None,None,Classic,14
+G100141,Elizabeth,Jackson,5925,Ocean View,5,Silver,13178,3,2026-02-05,2026-02-11,None,None,Classic,9
+G100142,Jennifer,Miller,8910,Suite,8,Platinum,59070,3,2026-02-05,2026-02-11,None,None,Classic,17
+G100143,Elizabeth,Williams,4781,Interior,4,Blue,4469,4,2026-02-05,2026-02-11,None,Birthday,Classic,2
+G100144,Barbara,Smith,8712,Suite,8,Silver,16495,3,2026-02-05,2026-02-11,Vegetarian,None,None,11
+G100145,David,Brown,4859,Interior,4,Silver,20648,3,2026-02-05,2026-02-11,Vegetarian,Birthday,None,9
+G100146,Jessica,Moore,5630,Ocean View,5,Platinum,55192,1,2026-02-05,2026-02-11,Gluten-Free,Birthday,None,17
+G100147,Patricia,Martinez,8621,Suite,8,Diamond,115970,1,2026-02-05,2026-02-11,Vegetarian,None,Premium,19
+G100148,Patricia,Jackson,4611,Interior,4,Platinum,51077,2,2026-02-05,2026-02-11,Vegetarian,Anniversary,Classic,0
+G100149,Linda,Thomas,6383,Balcony,7,Diamond,187584,1,2026-02-05,2026-02-11,None,Anniversary,None,16
+G100150,Richard,Jackson,4044,Interior,4,Diamond,150709,3,2026-02-05,2026-02-11,Gluten-Free,None,Classic,2
+G100151,Patricia,Wilson,5136,Ocean View,5,Gold,36544,3,2026-02-05,2026-02-11,Vegetarian,None,Premium,15
+G100152,John,Moore,5037,Ocean View,5,Silver,13302,1,2026-02-05,2026-02-11,Vegetarian,None,Classic,9
+G100153,Jessica,Rodriguez,8518,Suite,8,Diamond,184790,2,2026-02-05,2026-02-11,Gluten-Free,Anniversary,None,20
+G100154,Patricia,Anderson,6894,Balcony,7,Gold,38107,4,2026-02-05,2026-02-11,None,Anniversary,None,15
+G100155,William,Williams,7489,Balcony,6,Platinum,55172,4,2026-02-05,2026-02-11,None,Birthday,Premium,9
+G100156,John,Wilson,4676,Interior,4,Gold,35043,4,2026-02-05,2026-02-11,None,None,None,14
+G100157,Mary,Anderson,8814,Suite,8,Gold,33996,1,2026-02-05,2026-02-11,None,None,Classic,16
+G100158,Robert,Moore,4035,Interior,4,Silver,11101,2,2026-02-05,2026-02-11,Gluten-Free,Anniversary,Classic,18
+G100159,Joseph,Anderson,5380,Ocean View,5,Blue,1259,2,2026-02-05,2026-02-11,None,Anniversary,Classic,10
+G100160,Patricia,Smith,5753,Ocean View,5,Gold,41352,4,2026-02-05,2026-02-11,None,None,Classic,8
+G100161,Elizabeth,Jackson,5204,Ocean View,5,Platinum,58895,1,2026-02-05,2026-02-11,None,Birthday,Premium,14
+G100162,Barbara,Williams,7126,Balcony,7,Blue,4757,3,2026-02-05,2026-02-11,Vegetarian,Birthday,Classic,16
+G100163,Michael,Jones,4242,Interior,4,Silver,18094,1,2026-02-05,2026-02-11,Gluten-Free,None,Premium,11
+G100164,John,Williams,5316,Ocean View,5,Platinum,96984,4,2026-02-05,2026-02-11,None,None,Classic,18
+G100165,David,Williams,5460,Ocean View,5,Blue,8476,3,2026-02-05,2026-02-11,Vegetarian,None,Premium,18
+G100166,Susan,Johnson,5851,Ocean View,5,Silver,18488,2,2026-02-05,2026-02-11,Gluten-Free,Birthday,None,10
+G100167,Elizabeth,Williams,6513,Balcony,6,Silver,20404,3,2026-02-05,2026-02-11,Vegetarian,Anniversary,Premium,17
+G100168,Robert,Garcia,5674,Ocean View,5,Blue,9914,3,2026-02-05,2026-02-11,None,None,None,2
+G100169,Michael,Thomas,7265,Balcony,7,Blue,496,4,2026-02-05,2026-02-11,None,Anniversary,Premium,9
+G100170,Richard,Martinez,5464,Ocean View,5,Platinum,95128,1,2026-02-05,2026-02-11,Vegetarian,None,Classic,15
+G100171,David,Jones,5320,Ocean View,5,Platinum,97078,3,2026-02-05,2026-02-11,Gluten-Free,None,None,11
+G100172,David,Davis,4477,Interior,4,Diamond,135058,4,2026-02-05,2026-02-11,Vegetarian,Birthday,None,1
+G100173,Susan,Davis,8992,Suite,8,Gold,30233,3,2026-02-05,2026-02-11,None,Anniversary,None,5
+G100174,Jessica,Martinez,8754,Suite,8,Platinum,55901,4,2026-02-05,2026-02-11,None,None,None,6
+G100175,Mary,Johnson,6576,Balcony,7,Diamond,178317,4,2026-02-05,2026-02-11,Gluten-Free,None,None,3
+G100176,William,Anderson,5782,Ocean View,5,Platinum,73982,1,2026-02-05,2026-02-11,None,None,Premium,17
+G100177,Elizabeth,Williams,6791,Balcony,7,Silver,17378,3,2026-02-05,2026-02-11,None,None,None,4
+G100178,Barbara,Wilson,8785,Suite,8,Blue,5990,2,2026-02-05,2026-02-11,Vegetarian,None,Premium,12
+G100179,Mary,Johnson,4140,Interior,4,Diamond,143652,4,2026-02-05,2026-02-11,None,None,None,19
+G100180,David,Wilson,5166,Ocean View,5,Diamond,180805,3,2026-02-05,2026-02-11,None,Anniversary,Premium,16
+G100181,Elizabeth,Jackson,8917,Suite,8,Diamond,148281,3,2026-02-05,2026-02-11,None,None,Premium,9
+G100182,William,Davis,8869,Suite,8,Blue,9560,4,2026-02-05,2026-02-11,Vegetarian,None,Premium,19
+G100183,Linda,Johnson,5586,Ocean View,5,Platinum,95909,1,2026-02-05,2026-02-11,Vegetarian,None,Classic,10
+G100184,Susan,Miller,5420,Ocean View,5,Platinum,90073,4,2026-02-05,2026-02-11,None,Birthday,Premium,6
+G100185,Jessica,Taylor,6642,Balcony,7,Diamond,122699,4,2026-02-05,2026-02-11,None,Anniversary,Premium,11
+G100186,Michael,Davis,8642,Suite,8,Gold,34781,2,2026-02-05,2026-02-11,Gluten-Free,Anniversary,Premium,6
+G100187,Jessica,Anderson,7147,Balcony,7,Platinum,97294,3,2026-02-05,2026-02-11,Gluten-Free,None,Premium,17
+G100188,Barbara,Jones,8648,Suite,8,Platinum,68850,1,2026-02-05,2026-02-11,Gluten-Free,None,Premium,8
+G100189,Michael,Rodriguez,5955,Ocean View,5,Platinum,95624,3,2026-02-05,2026-02-11,Vegetarian,None,Premium,18
+G100190,Mary,Davis,5653,Ocean View,5,Silver,10860,1,2026-02-05,2026-02-11,None,Anniversary,Premium,15
+G100191,James,Garcia,5416,Ocean View,5,Blue,7793,4,2026-02-05,2026-02-11,Vegetarian,Anniversary,Classic,9
+G100192,Linda,Johnson,4935,Interior,4,Blue,2868,4,2026-02-05,2026-02-11,Vegetarian,None,Classic,15
+G100193,Mary,Smith,6611,Balcony,7,Silver,19875,1,2026-02-05,2026-02-11,Gluten-Free,Anniversary,Classic,20
+G100194,Robert,Moore,8639,Suite,8,Diamond,114764,3,2026-02-05,2026-02-11,Vegetarian,None,Premium,8
+G100195,David,Martinez,4581,Interior,4,Silver,22407,2,2026-02-05,2026-02-11,Vegetarian,None,Premium,12
+G100196,John,Taylor,7370,Balcony,6,Platinum,62109,2,2026-02-05,2026-02-11,None,Anniversary,None,0
+G100197,Linda,Moore,8885,Suite,8,Gold,35801,3,2026-02-05,2026-02-11,None,None,None,8
+G100198,Mary,Brown,5476,Ocean View,5,Gold,30233,4,2026-02-05,2026-02-11,None,Anniversary,Premium,3
+G100199,Linda,Davis,7960,Balcony,6,Gold,40669,2,2026-02-05,2026-02-11,None,None,Classic,13
+G100200,Michael,Davis,8848,Suite,8,Diamond,178094,1,2026-02-05,2026-02-11,None,None,Premium,11

@@ -1,0 +1,13 @@
+.env
+ocean_data.db
+chroma_db/
+assistant.log
+assistant.log.*
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+nohup.out
+logs/
+
