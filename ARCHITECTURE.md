@@ -95,7 +95,7 @@ flowchart TD
     R -->|"vector search,<br/>at runtime"| VDB[("ChromaDB<br/>index")]
     PDF[("12 knowledge-base<br/>PDFs")] -.->|"ingested once,<br/>offline<br/>(rag/ingest.py)"| VDB
 
-    A -->|"3b. query_<br/>guest_data"| T["Text2SQL pipeline<br/>generate → validate<br/>→ scope → execute"]
+    A -->|"3b. <br/>query_guest_data"| T["Text2SQL pipeline<br/>generate → validate<br/>→ scope → execute"]
     T --> RO[("read-only<br/>SQLite")]
 
     A -->|"3c. 7 dining<br/>tools"| MC["Assistant<br/>MCP client"]
